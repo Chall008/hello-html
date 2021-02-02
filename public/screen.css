@@ -1,5 +1,5 @@
 @import url('https://fonts.google.com/specimen/Lora?preview.text_type=custom');
-
+@import url('https://fonts.google.com/specimen/Coda+Caption?preview.text_type=custom');
 :root {
   font: 16px / 1 sans-serif;
 }
@@ -36,6 +36,7 @@ a:active {
   text-decoration: underline;
 }
 li h2 {
+  font-family: 'Coda Caption';
   text-decoration: underline;
 }
 ul {
